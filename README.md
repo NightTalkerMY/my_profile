@@ -150,13 +150,6 @@ Currently Exploring:
   </a>
 </p>
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <a href="https://github.com/NightTalkerMY">
-    <img src="https://github-profile-trophy.vercel.app/?username=NightTalkerMY&theme=discord&no-frame=true&no-bg=true&column=7" />
-  </a>
-</p>
-
 <!-- Contribution Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NightTalkerMY&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" />
