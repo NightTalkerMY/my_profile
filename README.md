@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+%F0%9F%91%8B%2C+I'm+William;Electrical+%26+Computer+Systems+Engineer;Building+AI+%2B+IoT+%2B+Interactive+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Hey+%F0%9F%91%8B%2C+I'm+William" alt="Typing SVG" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=A8A8A8&center=true&vCenter=true&repeat=true&width=700&height=35&lines=Electrical+%26+Computer+Systems+Engineer;AI+%2B+IoT+%2B+Interactive+Systems+Builder;Embedded+Systems+%26+Smart+Energy+Enthusiast;Full-Stack+Engineer+%7C+Hardware+Tinkerer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,13 +16,7 @@
 
 Engineering student passionate about building systems at the intersection of **intelligent software** and **hardware** — from holographic AI assistants and FPGA communication to EV charging protocols and real-time dashboards.
 
-```yaml
-Currently Exploring:
-  - Applied AI & Computer Vision
-  - React Three Fiber & WebRTC Streaming
-  - Embedded Linux & FPGA Design
-  - Smart Grid & BESS Technologies
-```
+**Currently Exploring:**  Applied AI & Computer Vision | React Three Fiber & WebRTC | Embedded Linux & FPGA | Smart Grid & BESS
 
 ---
 
@@ -60,7 +56,7 @@ Currently Exploring:
     <td width="50%" valign="top">
       <h3 align="center">More Coming Soon...</h3>
       <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=500&color=6C63FF&center=true&vCenter=true&width=300&height=30&lines=Always+building+something+new..." alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2500&pause=600&color=6C63FF&center=true&vCenter=true&width=300&height=30&lines=Embedded+AI+on+edge+devices;Computer+vision+pipelines;Smart+energy+dashboards;Interactive+3D+experiences;WebRTC+streaming+tools" alt="Typing SVG" />
       </p>
       <p>Exploring new ideas in embedded AI, computer vision, and interactive systems. Check back for updates or browse my repositories below.</p>
     </td>
