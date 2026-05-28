@@ -136,17 +136,25 @@ Currently Exploring:
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NightTalkerMY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=NightTalkerMY&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+  <a href="https://github.com/NightTalkerMY">
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NightTalkerMY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
+  </a>
+  <a href="https://github.com/NightTalkerMY">
+    <img height="180" src="https://streak-stats.demolab.com/?user=NightTalkerMY&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+  </a>
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NightTalkerMY&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" />
+  <a href="https://github.com/NightTalkerMY">
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NightTalkerMY&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" />
+  </a>
 </p>
 
 <!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NightTalkerMY&theme=discord&no-frame=true&no-bg=true&column=7" />
+  <a href="https://github.com/NightTalkerMY">
+    <img src="https://github-profile-trophy.vercel.app/?username=NightTalkerMY&theme=discord&no-frame=true&no-bg=true&column=7" />
+  </a>
 </p>
 
 <!-- Contribution Graph -->
@@ -156,7 +164,7 @@ Currently Exploring:
 
 <!-- Contribution Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NightTalkerMY/NightTalkerMY/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/NightTalkerMY/my_profile/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
